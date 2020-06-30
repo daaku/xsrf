@@ -1,4 +1,4 @@
-//! A library to provide Cross-site request forgery protection.
+//! A library to provide Cross-site request forgery protection primitives.
 //!
 //! Getting this right can be tricky, and this library aims to provide the
 //! primitives to be able to do this without making it too easy to get it

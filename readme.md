@@ -5,5 +5,5 @@ xsrf
 [![Crates.io](https://img.shields.io/crates/v/xsrf)](https://crates.io/crates/xsrf)
 [![Documentation](https://docs.rs/xsrf/badge.svg)](https://docs.rs/xsrf)
 
-A library to provide Cross-site request forgery protection. See
+A library to provide Cross-site request forgery protection primitives. See
 [documentation](https://docs.rs/xsrf) for how to use the library.
