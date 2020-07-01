@@ -108,6 +108,7 @@ impl CookieToken {
     }
 }
 
+#[derive(Clone)]
 pub struct RequestToken {
     otp: [u8; TOKEN_LEN],
     mask: [u8; TOKEN_LEN],
